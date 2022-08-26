@@ -42,7 +42,6 @@ objc_library(
     visibility = ["//visibility:public"],
 )
 """,
-    commit = "afd2c6924e8a36cb872bc475248b978f743c6050",  # tag = v3.9.1
-    remote = "https://github.com/erikdoe/ocmock",
-    shallow_since = "1609349457 +0100",
+    commit = "84fcb4d370644332e12c2d3c4a38796d9c1e3fd3",
+    remote = "https://github.com/dmaclach/ocmock",
 )
